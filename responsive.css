@@ -1,0 +1,23 @@
+@media (max-width:1000px) {
+.green {
+    width:50%;
+    margin-bottom:50px;
+    font-size: 10px;
+}
+
+.heading h2 {
+    font-size:8px;
+}
+.heading h3 {
+    font-size:10px;
+}
+
+
+
+}
+
+@media (max-width:670px) {
+    .green {
+        width: 100%;
+    }
+}
